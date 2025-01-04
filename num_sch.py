@@ -1,6 +1,6 @@
 import numpy as np
 
-def get_cheb_mat(x_vec):
+def get_cheb_Dmat(x_vec):
     
     N_pts = len(x_vec)
     
